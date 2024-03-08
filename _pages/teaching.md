@@ -4,15 +4,19 @@ title: ""
 permalink: /teaching_service/
 author_profile: true
 ---
+At Stanford, I have been a teaching assistant in the Math department, the Management Science and Engineering department, and the Graduate School of Business for:
+- OIT 272: Online Marketplaces (Gabriel Weintraub)
+- MS&E 232H: Accelerated Introduction to Game Theory (Irene Lo)
+- Math 113: Linear Algebra and Matrix Theory (Sourav Chatterjee)
+- Math 18: Foundations for Calculus (Lernik Asserian)
 
-# Teaching Experience
-I was a teaching assistant for:
-* Fundamentals of Data Science, Stanford MS&E 226
-* Data Science for Online Marketplaces, Stanford OIT 521 (Graduate School of Business)
-* Abstract Algebra, Pomona College 
-* Operations Research, Pomona College 
-* Calculus II Honors, Pomona College 
+I was also a teaching assistant for the ["Mathematics and Computer Science of Market Design"](https://www.slmath.org/summer-schools/1016) summer graduate school at MSRI.
 
-# Diversity and Inclusion
-* Senior student mentor at EC'20 and EC'21
-* Mentor for community college students through Stanford Data Science Inclusive Mentoring Program
+At Columbia, I was a teaching assistant in the Math and CS departments for:
+- MATH UN1205: Accelerated Multivariable Calculus (Konstantin Matetski)
+- MATH UN2010: Linear Algebra (Dave Bayer)
+- MATH UN3028: Partial Differential Equations (Florian Johne)
+- MATH GU4032: Fourier Analysis (Yash Jhaveri)
+- MATH GU4061: Modern Analysis I (Abhijit Champanerkar)
+- CS W3261: CS Theory (Tal Malkin, Mihalis Yannakakis)
+
