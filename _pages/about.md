@@ -36,7 +36,6 @@ Most of my research interests lie in using tools from applied probability, algor
 
 
 # Outreach
-------
 At Stanford, I have served as a mentor for the MS&E department's [Undergraduate Diversity in Research](https://msandedei.stanford.edu/diversity-research) program. I am also a board member and mentor for [Stanford Women in Math Mentoring](https://swimm.stanford.edu/).
 
 At Columbia, I was Vice President Internal of the Society of Women Engineers, where I coordinated many of our outreach events, including the [Engineering Exploration Experience](http://www.seas.columbia.edu/swe/eee.html) . I also provided math tutoring to elementary and middle school students around Harlem and Morningside Heights through Columbia's [One-to-One Tutoring](https://www.communityimpact.columbia.edu/content/one-one-tutoring) community impact program.
