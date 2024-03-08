@@ -35,7 +35,7 @@ Most of my research interests lie in using tools from applied probability, algor
 - **Bias from Experimentation in Online Platforms**: We study the problem of A/B testing run by a two-sided online marketplace, and we focus on characterizing bias that results from estimating the variance of the estimated treatment effect. This allows us to quantify the effect of interference on the platform's decisions to launch features. This work has been done in collaboration with research scientists at Airbnb.
 
 
-#Outreach
+# Outreach
 ------
 At Stanford, I have served as a mentor for the MS&E department's [Undergraduate Diversity in Research](https://msandedei.stanford.edu/diversity-research) program. I am also a board member and mentor for [Stanford Women in Math Mentoring](https://swimm.stanford.edu/).
 
