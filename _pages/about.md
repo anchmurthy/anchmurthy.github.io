@@ -20,28 +20,25 @@ redirect_from:
 
 # About Me
 
-Hi! I am an Assistant Professor at [Columbia Business School](https://home.gsb.columbia.edu/) in the [Decision, Risk, and Operations](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) division. 
-
-Previously, I was a postdoctoral associate at MIT. I received my PhD in Operations Research from Stanford University, where I was affiliated with the [Operations Research](https://or.stanford.edu/) group in MS&E and the [Society and Algorithms Lab](https://soal.stanford.edu/). Before coming to Stanford, I graduated from Pomona College with a degree in mathematics. 
-
+I am a PhD student at Stanford advised by [Ramesh Johari](https://web.stanford.edu/~rjohari/) and [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0). I grew up in Michigan and completed my B.S. in Applied Math and CS at Columbia University. Up until the beginning of grad school I was primarily interested in Probability Theory and Theoretical CS, but now I am mostly interested in using techniques from these areas to study problems in Contract Theory and Market Design. At Stanford, I am affiliated with the [Operations Research](https://or.stanford.edu/) group in the MS&E department and the [Society and Algorithms Lab](https://web.stanford.edu/group/soal/). I'm also thankful to be supported by a NSF Graduate Fellowship and an EDGE Doctoral Fellowship.
 # Research Interests
+Most of my research interests lie in using tools from applied probability, algorithms, and statistical theory to study questions at the intersection of market design and data science. In one direction, I am interested in the use of data science tools to design economic mechanisms, and the resulting sample complexity and efficiency guarantees. In another direction, I am interested in the incentives of economic agents involved in statistical tests, and how they can result in biased estimates as well as undesirable market outcomes. From a methodological standpoint I am also interested in simplicity and robustness as tools for mechanism design. I am especially excited when the questions I'm studying have applications to operations and resource allocation in online platforms, the environment, and the public sector. Right now, I have worked on two projects:
 
-My research develops data science methods tailored to social systems, such as online marketplaces, education systems, social media, and digital health platforms. In particular, I focus on experimentation and recommendation systems. 
-
-My work combines interdisciplinary approaches from operations research, statistics, causal inference, and economics to develop practical solutions with theoretical guarantees. I inform my research with first hand experience working on these platforms. 
+- **Simplicity and Robustness in Contract Design for Sustainability**: In this project, we study dynamic contract models motivated by Payment for Ecosystem Services (PES) programs, where governments and NGOs pay landowners to maintain their land sustainably. We design dynamic contracts with simple payment structure that can achieve constant factor approximations of the optimal contract payoff. This tradeoff on simplicity vs. robustness is especially salient in developing world settings where contracts need to be simple enough for the participating agents to understand while still achieving a good outcome with respect to the optimal payment structure.
+- **Bias from Experimentation in Online Platforms**: We study the problem of A/B testing run by a two-sided online marketplace, and we focus on characterizing bias that results from estimating the variance of the estimated treatment effect. This allows us to quantify the effect of interference on the platform's decisions to launch features. This work has been done in collaboration with research scientists at Airbnb.
 
 # News
-- Nov 2023: Plenary talk at [MIT CODE](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) on experimental design for public health interventions (see [talk recording](https://www.youtube.com/watch?v=LTeKJUR4lsI)).
-  - Parallel session presentations on "Recommendation Algorithms and User Strategization" (presented by coauthor [Sarah Cen](https://shcen.github.io/)) and "Quantifying the Effect of Interference on Platform Decisions".
-- Oct 2023: Received the INFORMS [Dantzig Dissertation Award](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award) and the [MSOM Service Management SIG Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/MSOM-Service-Management-SIG-Best-Paper-Award).
-- Oct 2023: Co-organizing a series of three INFORMS sessions on the Frontiers of Experimentation, with [Hongseok Namkong](https://hsnamkoong.github.io/).
-- July 2023: Made the move from Boston to New York!
-- July 2022: Featured on an episode of the [MS&E Graduates podcast](https://msande.stanford.edu/research-impact/stories-voices/students/meet-our-graduates-hannah-li-phd-22), where I discuss (among other things) my approach of blending engineering and stats with human behavior, Stanford's entrepreneurial mindset, and advice for future students.
+- **[October 2023]** : I will be attending [EAAMO'23](https://eaamo.org/) at Boston University and giving a talk at the Doctoral Consortium on our "Dynamic Contracting for PES Programs" paper
+- **[September 2023]** : Our extended abstract, "Quantifying the Effect of Interference on Platform Decisions," was accepted at ["CODE@MIT"](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) !
+- **[June 2023]**: Excited to TA the ["Mathematics and Computer Science of Market Design"](https://www.slmath.org/summer-schools/1016) summer graduate school at MSRI!
 
----
 
-# Contact
-Email: hannah.li \[at\] columbia.edu
+Outreach
+------
+At Stanford, I have served as a mentor for the MS&E department's [Undergraduate Diversity in Research](https://msandedei.stanford.edu/diversity-research) program. I am also a board member and mentor for [Stanford Women in Math Mentoring](https://swimm.stanford.edu/).
+
+At Columbia, I was Vice President Internal of the Society of Women Engineers, where I coordinated many of our outreach events, including the [Engineering Exploration Experience](http://www.seas.columbia.edu/swe/eee.html) . I also provided math tutoring to elementary and middle school students around Harlem and Morningside Heights through Columbia's [One-to-One Tutoring](https://www.communityimpact.columbia.edu/content/one-one-tutoring) community impact program.
+
 
 
 
