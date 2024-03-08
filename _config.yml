@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hannah Li"
+title                    : "Anushka Murthy"
 title_separator          : "-"
-name                     : &name "Hannah Li"
-description              : &description "Assistant Professor at Columbia Business School"
-url                      : https://hannahql.github.io # the base hostname & protocol for your site 
+name                     : &name "Anushka Murthy"
+description              : &description "PhD Student at Stanford University"
+url                      : https://anushkacm.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hannahql/hannahql.github.io"
+repository               : "anushkacm/anushkacm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hannah Li"
-  avatar           : "Hannah_Li_Columbia.jpg"
-  bio              : "Assistant Professor at Columbia Business School"
-  location         : "New York, NY"
+  name             : "Anushka Murthy"
+  avatar           : 
+  bio              : "PhD Student at Stanford University"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=V3NQnJoAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qpEpAkYAAAAJ"
   email            :
   researchgate     : 
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : hannah-li-a6337660
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : hannahq_li
+  twitter          : 
   vine             :
   weibo            :
   xing             :
