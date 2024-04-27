@@ -24,6 +24,7 @@ I am a PhD student at Stanford advised by [Ramesh Johari](https://web.stanford.e
 
 # News
 - **[October 2024]** : I will be giving a talk at INFORMS '24 in Seattle as a part of the session on "Randomized Experiments, A/B Tests, and Observational Studies." I'll be presenting our paper, "Quantifying the Effect of Interference on Platform Decisions."
+- **[April 2024]** : Thrilled to facilitate a roundtable discussion on DE&I at Stanford MS&E's ["Rising Stars Workshop"](https://msandedei.stanford.edu/events/rising-stars)! It was a pleasure to hear the participants' insightful perspectives on effective DE&I practices.
 - **[October 2023]** : I will be attending [EAAMO'23](https://eaamo.org/) at Boston University and giving a talk at the Doctoral Consortium on our "Dynamic Contracting for PES Programs" paper
 - **[September 2023]** : Our extended abstract, "Quantifying the Effect of Interference on Platform Decisions," was accepted at ["CODE@MIT"](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/) !
 - **[June 2023]**: Excited to TA the ["Mathematics and Computer Science of Market Design"](https://www.slmath.org/summer-schools/1016) summer graduate school at MSRI!
