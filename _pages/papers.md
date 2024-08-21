@@ -8,7 +8,7 @@ author_profile: true
 
 * **Quantifying the Effect of Interference on Platform Decisions**
   <br>
-  [Hannah Li](https://hannahql.github.io/), [Ramesh Johari](https://web.stanford.edu/~rjohari/), Inessa Liskovich, Ruben Lobel, **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). In preparation.
+  [Hannah Li](https://hannahql.github.io/), [Ramesh Johari](https://web.stanford.edu/~rjohari/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). In preparation.
   <br>
   
   - Extended abstract accepted at 2023 "Conference on Digital Experimentation" (CODE) at MIT
