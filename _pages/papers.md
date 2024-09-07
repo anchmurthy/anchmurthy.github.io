@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* **Quantifying the Effect of Interference on Platform Decisions**
+* **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
   [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). In preparation.
   <br>
