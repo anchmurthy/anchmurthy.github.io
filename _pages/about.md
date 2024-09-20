@@ -24,9 +24,9 @@ I am a PhD student at Stanford advised by [Ramesh Johari](https://web.stanford.e
 
 # News
 - **[October 2024]** : Giving three talks on our paper, "When Does Interference Matter? Decision-Making in Platform Experiments:"
-    - [Stanford Causal Science Center Conference 2024](https://datascience.stanford.edu/events/causal-science-center/2024-causal-science-center-conference)
-    - [CODE@MIT 2024](https://ide.mit.edu/events/code24/): Parallel presentation in "Session N: Violations of SUTVA II." The talk is under the title, "False Positives in A/A Experiments with Correlated Outcomes,” and I'll only be talking about type I error results from our paper.
-    - INFORMS '24 in Seattle: Invited talk in session on "Randomized Experiments, A/B Tests, and Observational Studies" 
+    - [Stanford Causal Science Center Conference 2024](https://datascience.stanford.edu/events/causal-science-center/2024-causal-science-center-conference) (October 11th)
+    - [CODE@MIT 2024](https://ide.mit.edu/events/code24/) (October 18-19): Parallel presentation in "Session N: Violations of SUTVA II." The talk is under the title, "False Positives in A/A Experiments with Correlated Outcomes,” and I'll only be talking about type I error results from our paper.
+    - INFORMS '24 in Seattle (October 20-23): Invited talk in session on "Randomized Experiments, A/B Tests, and Observational Studies" 
 - **[September 2024]**: Excited to join the 2024-2026 cohort of the [Stanford Data Science Scholars Program](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/program-details)!
 - **[July 2024]**: I will be giving a talk at [MSOM 2024](https://msom2024.umn.edu/home) at the University of Minnesota on our "Dynamic Contracting for PES Programs" paper.
 - **[October 2023]** : I will be attending [EAAMO'23](https://eaamo.org/) at Boston University and giving a talk at the Doctoral Consortium on our "Dynamic Contracting for PES Programs" paper
