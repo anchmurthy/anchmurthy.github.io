@@ -11,7 +11,8 @@ author_profile: true
   [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). In preparation.
   <br>
   
-  - Subset of results presented at at 2024 "Conference on Digital Experimentation" (CODE) at MIT
+  - Extended abstract accepted at Stanford Causal Science Center Conference 2024
+  - Extended abstract accepted at 2024 "Conference on Digital Experimentation" (CODE) at MIT
   - Invited presentation at INFORMS 2024 session on Randomized Experiments, A/B Tests, and Observational Studies
     
 - **Dynamic Contracting for Payment for Ecosystem Services Programs**
