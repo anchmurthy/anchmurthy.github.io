@@ -20,6 +20,7 @@ At Columbia, I was a teaching assistant in the Math and CS departments for:
 - MATH GU4032: Fourier Analysis (Yash Jhaveri)
 - MATH GU4061: Modern Analysis I (Abhijit Champanerkar)
 - CS W3261: CS Theory (Tal Malkin, Mihalis Yannakakis)
+  
 # Outreach and Organizing
 - Co-organizer for the working group on environmental applications in [EAAMO Bridges](https://bridges.eaamo.org/) (formerly Mechanism Design for Social Good)
 - Committe member on [Dean's Graduate Student Advisory Council](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/graduate-programs/deans-graduate-student)
