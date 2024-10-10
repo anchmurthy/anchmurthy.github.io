@@ -4,6 +4,7 @@ title: ""
 permalink: /teaching_service/
 author_profile: true
 ---
+# Teaching
 At Stanford, I have been a teaching assistant in the Math department, the Management Science and Engineering department, and the Graduate School of Business for:
 - OIT 272: Online Marketplaces (Gabriel Weintraub)
 - MS&E 232H: Accelerated Introduction to Game Theory (Irene Lo)
@@ -20,12 +21,8 @@ At Columbia, I was a teaching assistant in the Math and CS departments for:
 - MATH GU4061: Modern Analysis I (Abhijit Champanerkar)
 - CS W3261: CS Theory (Tal Malkin, Mihalis Yannakakis)
 # Outreach and Organizing
-# Stanford
 - Co-organizer for the working group on environmental applications in [EAAMO Bridges](https://bridges.eaamo.org/) (formerly Mechanism Design for Social Good)
 - Committe member on [Dean's Graduate Student Advisory Council](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/graduate-programs/deans-graduate-student)
 - Mentor for the MS&E department's [Undergraduate Diversity in Research](https://msandedei.stanford.edu/diversity-research) program
 - Board member and mentor for [Stanford Women in Math Mentoring](https://swimm.stanford.edu/)
 
-# Columbia
-- Vice President Internal of the Society of Women Engineers: coordinated many of outreach events, including the [Engineering Exploration Experience](http://www.seas.columbia.edu/swe/eee.html)
-- Math tutor with Columbia's [One-to-One Tutoring](https://www.communityimpact.columbia.edu/content/one-one-tutoring) community impact program.
