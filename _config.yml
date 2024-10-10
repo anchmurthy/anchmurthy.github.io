@@ -11,9 +11,9 @@ title                    : "Anushka Murthy"
 title_separator          : "-"
 name                     : &name "Anushka Murthy"
 description              : &description "PhD Student at Stanford University"
-url                      : https://anushkacm.github.io # the base hostname & protocol for your site 
+url                      : https://anchmurthy.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anushkacm/anushkacm.github.io"
+repository               : "anchmurthy/anchmurthy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
