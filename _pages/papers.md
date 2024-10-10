@@ -8,8 +8,9 @@ author_profile: true
 
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
-  [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). In preparation.
+  [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Working paper.
   <br>
+  [arxiv](https://arxiv.org/abs/2410.06580)
   
   - Extended abstract accepted at Stanford Causal Science Center Conference 2024
   - Extended abstract accepted at 2024 "Conference on Digital Experimentation" (CODE) at MIT
