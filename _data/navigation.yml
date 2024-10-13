@@ -2,8 +2,7 @@
 main:
 #   - title: "Research"
 #     url: /publications/
-#   - title: "Personal"
-#     url: /personal/
+
 #   - title: "Talks"
 #     url: /talks/    
 
@@ -21,6 +20,8 @@ main:
     
   - title: "CV"
     url: /cv/
+  - title: "Personal"
+    url: /personal/
     
 #   - title: "Guide"
 #     url: /markdown/
