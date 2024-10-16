@@ -10,8 +10,4 @@ Some of my favorite hobbies are listening to music and playing the violin. At St
 
 [![Barber Adagio for Strings](https://img.youtube.com/vi/KvqKigTAnig/maxresdefault.jpg)](https://www.youtube.com/watch?v=KvqKigTAnig)
 
-I've been a classical music nerd for a long time, and I think the composers who have had the biggest impact on me are Tchaikovsky, Rimsky-Korsakov, Sibelius, Elgar, Vaughan-Williams, Mahler, and Debussy. I listen to a lot of other types of music too, and some artists that are special to me include Big Thief, SZA, Sade, Talking Heads, Sufjan Stevens, Nai Palm, Still Woozy, Kali Uchis, Little Simz, and The Internet. I'm lucky to have seen a lot of concerts around NYC and the Bay Area, and I'm starting to catalogue them in more detail because I'm starting to lose track of them...
-
-
-
-
+I've been a classical music nerd for a long time, and I think the composers who have had the biggest impact on me are Tchaikovsky, Rimsky-Korsakov, Sibelius, Elgar, Vaughan-Williams, Mahler, and Debussy. I listen to a lot of other types of music too, and some artists that are special to me include Big Thief, SZA, Sade, Talking Heads, Sufjan Stevens, Nai Palm, Still Woozy, Kali Uchis, Little Simz, and The Internet. I'm lucky to have seen a lot of concerts around NYC and the Bay Area, and I'm starting to catalogue them in more [detail](https://anchmurthy.github.io/files/concert_timeline.html)
