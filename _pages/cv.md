@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Link to CV](https://anchmurthy.github.io/files/AnushkaMurthy_CV.pdf) (Last updated February 2024)
+[Link to CV](https://anchmurthy.github.io/files/AnushkaMurthy_CV.pdf) (Last updated October 2024)
