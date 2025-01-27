@@ -22,7 +22,7 @@ author_profile: true
   <br>
 
   - Extended abstract accepted at MSOM 2024
-  - Invited presentation at POMS 2025
+  - Invited presentation at POMS 2025 session on Responsible Operations in Agriculture and Food Supply Chains
 - **One-point asymptotics for half-flat ASEP**
   <br>
   Evgeni Dimitrov & **Anushka Murthy**. *Annals of Applied Probability*. 34 (1B): 1136-1176 (2024).
