@@ -40,7 +40,6 @@ A consistent theme of my research is using stochastic modeling to evaluate and i
 - **Causal Inference and Experimentation in Marketplaces**: I am excited about using stochastic modeling of marketplace dynamics to design causal inference methods that can handle dynamic interference and dynamic treatment effects. So far, I have worked on A/B testing in online marketplaces, with a focus on how interference affects decision-making from a hypothesis testing perspective. Going forward, I'm very interested in designing methods for dynamic measurement and experimentation in education technology.
 - **Market Design for Social Good**: I am also excited about using game theoretic modeling to study public sector markets that deal with severe information asymmetries and resource constraints, where it is crucial to design policies that are simple, informationally robust, and equitable. So far, I've studied Payment for Ecosystem Services (PES) programs and worked on simple yet approximately optimal dynamic contract design. I'm also interested in applying these methods and questions to education settings.
 
-I'm lucky to have interacted with some great companies during my research, including Airbnb and [Edmentum](https://www.edmentum.com/).
 
 
 
