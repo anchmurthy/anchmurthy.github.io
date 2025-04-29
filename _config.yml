@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - googlef0e0f150f26d5b4d.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -271,8 +272,6 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - googlef0e0f150f26d5b4d.html
 
 # Plugins
 plugins:
