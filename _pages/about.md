@@ -24,7 +24,10 @@ I am a PhD student at Stanford where I'm very fortunate to be advised by [Ramesh
 
 # News
 - **[June 2025]**: Starting my first ever internship! I'm joining Amazon's [Middle Mile Product and Technology](https://www.amazon.science/latest-news/how-amazons-middle-mile-team-helps-packages-make-the-journey-to-your-doorstep) team in Bellevue as an Applied Scientist intern. Looking forward to working on ML and experimentation methods for the freight marketplace!
-- **[May 2025]**: Giving an invited talk at [POMS 2025](https://pomsmeetings.org/conf-2025/) in Atlanta on our "Dynamic Contracting for PES Programs" paper. The talk will be part of the session on "Responsible Operations in Agriculture and Food Supply Chains."
+- **[May 2025]**: Giving three talks on our paper, "When Does Interference Matter? Decision-Making in Platform Experiments."
+    - Data Driven Decisions Seminar at Stanford GSB (May 19th)
+    - [Marketplace Innovation Workshop](https://marketplaceinnovation.net/) (May 19-21)
+    - [Experimentation and Evaluation in Operations Workshop](https://www.hbs.edu/faculty/research/seminars-conferences/Pages/event.aspx?conf=eeo-workshop&view=home) at Harvard Business School (May 22-23)
 - **[October 2024]** : Giving three talks on a subset of results from our paper, "When Does Interference Matter? Decision-Making in Platform Experiments." The talk will be under the title, "False Positives in A/A Experiments with Correlated Outcomes."
     - [Stanford Causal Science Center Conference 2024](https://datascience.stanford.edu/events/causal-science-center/2024-causal-science-center-conference) (October 11th)
     - [CODE@MIT 2024](https://ide.mit.edu/events/code24/) (October 18-19): Parallel presentation in "Session N: Violations of SUTVA II"
