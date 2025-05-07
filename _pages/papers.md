@@ -18,7 +18,7 @@ author_profile: true
     
 - **Dynamic Contracting for Payment for Ecosystem Services Programs**
   <br>
-  [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & **Anushka Murthy**. In preparation.
+  [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & **Anushka Murthy**. Working paper.
   <br>
 
   - Extended abstract accepted at MSOM 2024
