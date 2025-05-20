@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **A Comparative Analysis of Power and Robustness in Dynamic Models of Learning**
-  <br>
- **Anushka Murthy**. In preparation.
-  <br>
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
   [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Working paper.
