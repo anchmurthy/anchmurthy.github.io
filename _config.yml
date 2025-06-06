@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anushka Murthy"
-  avatar           : "bryant.jpg"
+  avatar           : "/sydney.jpg"
   bio              : "PhD Student at Stanford University"
   location         : "Stanford, CA"
   employer         :
