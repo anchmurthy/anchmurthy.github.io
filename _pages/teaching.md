@@ -7,6 +7,7 @@ author_profile: true
 # Teaching
 At Stanford, I have been a teaching assistant in the Math department, the Management Science and Engineering department, and the Graduate School of Business for:
 - OIT 272: Online Marketplaces (Gabriel Weintraub)
+- MS&E 232: Introduction to Game Theory (Ramesh Johari)
 - MS&E 232H: Accelerated Introduction to Game Theory (Irene Lo)
 - Math 113: Linear Algebra and Matrix Theory (Sourav Chatterjee)
 - Math 18: Foundations for Calculus (Lernik Asserian)
