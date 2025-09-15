@@ -16,7 +16,7 @@ author_profile: true
   <br>
   [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & **Anushka Murthy**. Working paper.
   <br>
-
+  [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5394805)]
 
 - **One-point asymptotics for half-flat ASEP**
   <br>
