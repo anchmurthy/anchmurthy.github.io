@@ -24,6 +24,7 @@ redirect_from:
 I am a PhD student at Stanford where I'm very fortunate to be advised by [Ramesh Johari](https://web.stanford.edu/~rjohari/) and [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0), and to work closely with [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). I grew up in Michigan and completed my B.S. in Applied Math and CS at Columbia University. Up until the beginning of grad school I was primarily interested in Probability Theory and Theoretical CS, but now I am mostly interested in using techniques from these areas to study problems at the intersection of Market Design and Data Science. At Stanford, I am affiliated with the [Operations Research](https://or.stanford.edu/) group in the MS&E department, the [Data Science Center](https://datascience.stanford.edu/about/about-stanford-data-science), and the [Society and Algorithms Lab](https://web.stanford.edu/group/soal/). I'm also thankful to be supported by a Stanford Data Science Scholarship, NSF Graduate Fellowship, and an EDGE Doctoral Fellowship.
 
 # News
+- **[October 2025]**: Giving an invited talk at INFORMS on our paper, "When Does Interference Matter? Decision-Making in Platform Experiments." The talk will be in the Revenue Management session on "Experimentation in Operations: Design, Estimation and Decision." I'm also organizing an Applied Probability Society session on Experimentation and Interference with [Andy Zheng](https://atzheng.github.io/) and [Wenqian Xing](https://wenqian-xing.github.io/).
 - **[June 2025]**: Starting my first ever internship! I'm joining Amazon's [Middle Mile Product and Technology](https://www.amazon.science/latest-news/how-amazons-middle-mile-team-helps-packages-make-the-journey-to-your-doorstep) team in Bellevue as an Applied Scientist intern. Looking forward to working on ML and experimentation methods for the freight marketplace!
 - **[May 2025]**: Giving three talks on our paper, "When Does Interference Matter? Decision-Making in Platform Experiments."
     - Data Driven Decisions Seminar at Stanford GSB (May 19th)
@@ -35,7 +36,7 @@ I am a PhD student at Stanford where I'm very fortunate to be advised by [Ramesh
     - INFORMS '24 in Seattle (October 20-23): Invited talk in session on "Randomized Experiments, A/B Tests, and Observational Studies" 
 - **[September 2024]**: Excited to join the 2024-2026 cohort of the [Stanford Data Science Scholars Program](https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/program-details)!
 - **[July 2024]**: I will be giving a talk at [MSOM 2024](https://msom2024.umn.edu/home) at the University of Minnesota on our "Dynamic Contracting for PES Programs" paper.
-- **[June 2023]**: Excited to TA the ["Mathematics and Computer Science of Market Design"](https://www.slmath.org/summer-schools/1016) summer graduate school at MSRI!
+
 
   
 # Research Interests
