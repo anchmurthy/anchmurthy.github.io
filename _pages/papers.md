@@ -7,14 +7,14 @@ author_profile: true
 
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
-  [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Working paper.
+  [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Major revision at *Management Science*.
   <br>
   [[arxiv](https://arxiv.org/abs/2410.06580)]
 
     
 - **Dynamic Contracting for Payment for Ecosystem Services Programs**
   <br>
-  [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & **Anushka Murthy**. Working paper.
+  [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & **Anushka Murthy**. Major revision at *Management Science*.
   <br>
   [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5394805)]
 
