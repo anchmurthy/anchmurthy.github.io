@@ -4,23 +4,27 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+* **Short Side Randomization for Experimentation in Two-Sided Marketplaces**
+  <br>
+  [Ramesh Johari](https://web.stanford.edu/~rjohari/) & *Anushka Murthy*. Working paper.
+  <br>
 
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
-  [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), **Anushka Murthy**, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Major revision at *Management Science*.
+  [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), *Anushka Murthy*, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Under revision.
   <br>
   [[arxiv](https://arxiv.org/abs/2410.06580)]
 
     
 - **Dynamic Contracting for Payment for Ecosystem Services Programs**
   <br>
-  [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & **Anushka Murthy**. Major revision at *Management Science*.
+  [Irene Lo](https://sites.google.com/view/irene-lo/home?authuser=0) & *Anushka Murthy*. Under revision.
   <br>
   [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5394805)]
 
 - **One-point asymptotics for half-flat ASEP**
   <br>
-  Evgeni Dimitrov & **Anushka Murthy**. *Annals of Applied Probability*. 34 (1B): 1136-1176 (2024).
+  Evgeni Dimitrov & *Anushka Murthy*. **Annals of Applied Probability**. 34 (1B): 1136-1176 (2024).
   <br>
  [[arxiv](https://arxiv.org/abs/2211.02787)][[Journal](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/One-point-asymptotics-for-half-flat-ASEP/10.1214/23-AAP1987.full)]
 
