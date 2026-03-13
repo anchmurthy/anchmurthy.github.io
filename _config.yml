@@ -181,9 +181,6 @@ collections:
   teaching:
     output: False
     permalink: /:collection/:path/
-  personal:
-    output: False
-    permalink: /:collection/:path/
   publications:
     output: False
     permalink: /:collection/:path/
@@ -228,15 +225,6 @@ defaults:
 #   - scope:
 #       path: ""
 #       type: publications
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
-#   # _personal
-#   - scope:
-#       path: ""
-#       type: personal
 #     values:
 #       layout: single
 #       author_profile: true
