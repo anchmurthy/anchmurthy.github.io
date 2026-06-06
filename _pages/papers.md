@@ -4,11 +4,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-* **Short Side Randomization for Experimentation in Two-Sided Marketplaces**
-  <br>
-  [Ramesh Johari](https://web.stanford.edu/~rjohari/) & *Anushka Murthy*. Working paper.
-  <br>
-
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
   [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), *Anushka Murthy*, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Under revision.
