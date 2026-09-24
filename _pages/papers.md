@@ -8,7 +8,12 @@ author_profile: true
   <br>
   [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), *Anushka Murthy*. Working paper
   <br>
-  
+
+* **Experiment Design in Two-Sided Markets**
+  <br>
+  [Ramesh Johari](https://web.stanford.edu/~rjohari/) & *Anushka Murthy*. Working paper.
+  <br>
+
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
   [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Hannah Li](https://hannahql.github.io/), *Anushka Murthy*, [Gabriel Weintraub](https://gsb-faculty.stanford.edu/gabriel-weintraub/). Under revision.
