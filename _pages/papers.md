@@ -6,8 +6,9 @@ author_profile: true
 ---
 * **Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring**
   <br>
-  [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), *Anushka Murthy*. Working paper
+  [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Ramesh Johari](https://web.stanford.edu/~rjohari/), [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), *Anushka Murthy*. Working paper.
   <br>
+  [[arxiv](https://arxiv.org/abs/2609.30058)]
 
 * **Experiment Design in Two-Sided Markets**
   <br>
