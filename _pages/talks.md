@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 # Talks
+
+* **Experiment Design in Two-Sided Markets**
+  - Extended abstract accepted for parallel presentation at 2026 "Conference on Digital Experimentation" (CODE) at MIT
+    
+* **Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring**
+  - Invited talk at [AI + Economics Faculty Research Workshop](https://digitaleconomy.stanford.edu/event/economics-ai-stanford-faculty-research-workshop) at Stanford Digital Economy Lab
+  - Presentation in organized session at INFORMS 2026 on AI for Markets and Platforms
+ 
 * **When Does Interference Matter? Decision-Making in Platform Experiments.**
   - Accepted for presentation at [Economics and Computation 2026](https://ec26.sigecom.org/)
   - Invited talk at Data-Driven Decisions Seminar at Stanford GSB
