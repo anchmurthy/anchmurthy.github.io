@@ -30,7 +30,9 @@ Most of my research studies the data-driven interventions that online platforms 
 I also have a secondary interest in contract theory. My earlier work in this area focused on dynamic contracting for environmental conservation programs, and more recently I have become interested in using contract-theoretic frameworks to study human–AI and multi-agent negotiation, particularly in supply chains and contract labor markets.
 
 # News
-- **[November 2026]**: Organizing and speaking in a Revenue Management and Pricing session at INFORMS on "AI for Markets and Public Systems."
+- **[November 2026]**: Giving two talks on two papers:
+    - Organizing and speaking in a Revenue Management and Pricing session at INFORMS on "AI for Markets and Public Systems." I'll talk about our new paper, "Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring."
+    - Giving a parallel presentation at [CODE@MIT 2026](https://ide.mit.edu/events/2026-conference-on-digital-experimentation-mit-codemit/) on our other new paper, "Experiment Design in Two-Sided Markets."
 - **[July 2026]**: Our paper, "When Does Interference Matter? Decision-Making in Platform Experiments," was accepted for presentation at [EC 2026](https://ec26.sigecom.org/) in Rome! Also looking forward to stopping by [MATCH-UP 2026](https://matchup2026.crest.science/) in Paris the previous week.
 - **[November 2025]**: Giving a parallel presentation at [CODE@MIT 2025](https://ide.mit.edu/events/2025-conference-on-digital-experimentation-mit-codemit/) on our paper, "When Does Interference Matter? Decision-Making in Platform Experiments."
 - **[October 2025]**: Giving an invited talk at INFORMS on our paper, "When Does Interference Matter? Decision-Making in Platform Experiments." The talk will be in the Revenue Management session on "Experimentation in Operations: Design, Estimation and Decision." I'm also organizing an Applied Probability Society session on Experimentation and Interference with [Andy Zheng](https://atzheng.github.io/) and [Wenqian Xing](https://wenqian-xing.github.io/).
