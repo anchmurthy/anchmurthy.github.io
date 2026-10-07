@@ -10,6 +10,7 @@ author_profile: true
   - Extended abstract accepted for parallel presentation at 2026 "Conference on Digital Experimentation" (CODE) at MIT
     
 * **Can Labor Markets Function in the Age of AI? The Evaluation Bottleneck in Hiring**
+  - Presentation in [Stanford HAI Fall Conference](https://hai.stanford.edu/events/confronting-our-ai-future-hope-fear-and-the-choices-ahead)
   - Invited talk at [AI + Economics Faculty Research Workshop](https://digitaleconomy.stanford.edu/event/economics-ai-stanford-faculty-research-workshop) at Stanford Digital Economy Lab
   - Presentation in organized session at INFORMS 2026 on AI for Markets and Platforms
  
