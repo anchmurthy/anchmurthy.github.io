@@ -10,7 +10,7 @@ author_profile: true
   <br>
   [[arxiv](https://arxiv.org/abs/2609.30058)]
 
-* **Experiment Design in Two-Sided Markets**
+* **One-sided Randomization in Two-sided Platform Experiments: Which Side Should be Randomized?**
   <br>
   [Ramesh Johari](https://web.stanford.edu/~rjohari/) & *Anushka Murthy*. Working paper.
   <br>
