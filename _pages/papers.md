@@ -14,6 +14,7 @@ author_profile: true
   <br>
   [Ramesh Johari](https://web.stanford.edu/~rjohari/) & *Anushka Murthy*. Working paper.
   <br>
+  [[arxiv](https://arxiv.org/abs/2611.16406)]
 
 * **When Does Interference Matter? Decision-Making in Platform Experiments**
   <br>
